@@ -1,0 +1,48 @@
+
+#{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+}
+
+body{
+    background: linear-gradient(to right, #cc2b5e, #753a88);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1em;
+    margin-top: 15%;
+    justify-content: center;
+}
+
+.div1{
+    text-align: center;
+    color: #00cdac;
+}
+
+.div2{
+    text-align: center;
+    color: #00cdac;
+}
+
+.div3{
+    text-align: center;
+    color: #00cdac;
+}
+
+.div4{
+     text-align: center;
+     color: #00cdac;
+     font-size: 1em;
+}
+
+fieldset{
+    border: 0;
+}
+
+input, select, textarea, button{
+    border-radius: 5px;
+}
